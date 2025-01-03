@@ -4,6 +4,11 @@
 
 This project involves the creation of an **interactive dashboard** for an online retail dataset targeted at younger adults aged 18-35 years. The dashboard summarizes sales trends, customer segmentation, and geographical sales distribution, offering a visually appealing and user-friendly experience.
 
+## Additional Resources
+
+- More Information: For a detailed explanation of the project structure, methodologies, and findings, refer to the Full Project Report.[Full Project Report](https://github.com/federicoariton/Project-3-Dashboard-with-python-/blob/main/Dashboard%20with%20Python%20Report%20pdf.pdf)
+
+
 ---
 
 ## Features
